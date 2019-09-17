@@ -20,10 +20,10 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-            I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-            the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-            at <a href="https://matroid.com">Matroid</a>, <a href="https://planet.com">Planet</a>, <a href="https://planetaryresources.com">Planetary Resources</a>, <a href="https://facebook.com">Facebook</a>, and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Fengyu.
+            Currently, I am a computer science master student in <a href='https://epfl.ch'>EPFL</a>.
+            In the summer 2018, I finished my undergraduate study in <a href='https://ust.hk'>Hong Kong University of Science and Technology</a>,
+            double majoring in Electronic Engineering and Computer Science.
       </p>
       <ul className="actions">
         <li>
@@ -42,7 +42,7 @@ const Nav = () => (
           </li>
         ))}
       </ul>
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Michael D&apos;Angelo <a href="https://mldangelo.com">mldangelo.com</a>.</p>
     </section>
   </section>
 );

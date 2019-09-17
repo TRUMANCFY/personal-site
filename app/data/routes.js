@@ -16,14 +16,14 @@ const data = [
     path: '/projects',
     label: 'Projects',
   },
-//  {
-//    path: '/stats',
-  //  label: 'Stats',
-  //},
+  {
+    path: '/publication',
+    label: 'Publications',
+  },
   {
     path: '/contact',
     label: 'Contact',
-  },
+  }
 ];
 
 export default data;

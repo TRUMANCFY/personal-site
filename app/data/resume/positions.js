@@ -1,7 +1,9 @@
 
 const positions = [
   {
-    company: 'Arthena',
+    company: 'AXA Technology Services Advanced Engineering Lab',
+    city: 'Lausanne',
+    country: 'Switzerland',
     position: 'Cofounder, C.T.O.',
     link: 'https://arthena.com',
     daterange: 'January 2014 - Present',

@@ -11,6 +11,7 @@ import Projects from './views/Projects';
 import Resume from './views/Resume';
 import Stats from './views/Stats';
 import Contact from './views/Contact';
+import Publications from './views/Publications'
 
 import NotFound from './views/NotFound';
 
@@ -23,6 +24,7 @@ ReactDOM.render(
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
       <Route path="/projects" component={Projects} />
+      <Route path='/publication' component={Publications} />
       <Route path="/contact" component={Contact} />
       <Route path="/resume" component={Resume} />
       {/* Only useful in development mode */}
