@@ -10,7 +10,7 @@ const Nav = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${BASE_PATH}/images/me_icon.jpg`} alt="" />
+        <img src={`${BASE_PATH}/images/person.png`} alt="" />
       </Link>
       <header>
         <h2>Fengyu Cai</h2>
