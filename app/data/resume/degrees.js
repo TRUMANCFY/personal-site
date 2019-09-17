@@ -6,9 +6,9 @@ const degrees = [
     start_year: 2018,
     end_year: 'present'
   }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
+    school: 'Hong Kong University of Science and Technology',
+    degree: 'B.S. Electronic and Computer Engineering, Computer Science',
+    link: 'https://ust.hk',
     start_year: 2014,
     end_year: 2018
   },
