@@ -176,7 +176,7 @@ export const skills = [
     category: ['Data Science', 'Python'],
   },
   {
-    title: 'Scikit-Lean',
+    title: 'Scikit-Learn',
     compentency: 4,
     category: ['Data Science', 'Python'],
   },
