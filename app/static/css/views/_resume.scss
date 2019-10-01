@@ -124,6 +124,16 @@
 	// display: none;
 }
 
+h3.university-name {
+	margin-top: 4px;
+	margin-bottom: 0px;
+}
+
+h4.full-score {
+	margin-top: 0px;
+	margin-bottom: -1px;
+}
+
 @include breakpoint(small) {
 	.course-dot {
 		display: none;

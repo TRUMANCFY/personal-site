@@ -40,12 +40,9 @@ const getRows = (courses) => {
 let res = []
 
 universities.forEach((v, i) => {
-  res.push(<h3>{v}</h3>)
-  res.push(<h4>{`Full Grade: ${uni_fullmark[v]}`}</h4>)
-//   res.push(<div style="clear: both">
-//   <p style="float: left">{v}</p>
-//   <p style="float: right">{`Full Grade: ${uni_fullmark[v]}`}</p>
-// </div>)
+  res.push(<h3 class='university-name'>{v}</h3>)
+  res.push(<h4 class='full-score'>{`Full Grade: ${uni_fullmark[v]}`}</h4>)
+
   courseCat[v].forEach((vc, ic) => {
     res.push(<Course
       data={vc}
@@ -54,7 +51,9 @@ universities.forEach((v, i) => {
     />)
   }
 )
+
 res.push(<br></br>)
+
 })
 console.log(res)
 return res;
