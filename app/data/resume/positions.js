@@ -34,6 +34,8 @@ const positions = [
   },
   {
     company: 'Seedlink Technology',
+    city: 'Shanghai',
+    country: 'China',
     position: 'NLP R&D Intern',
     link: 'https://www.seedlinktech.com/',
     daterange: 'July 2017 – September 2017',
