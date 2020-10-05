@@ -8,7 +8,11 @@ const positions = [
     link: '',
     daterange: 'March 2020 - August 2020',
     points: [
-      
+      'Worked with Global Information Barrier Surveillance team',
+      'Embedded the news and relative semetiment into the monitoring pipeline',
+      'Optimized the pipeline, including converting the snapshot dataframe into incremental data',
+      'Rewrote the data writing on the platform, and added the functionality of repartitioning in order to avoid I/O bottleneck',
+      'Worked with Business team to provide supportive analysis'
     ],
   },
   {
