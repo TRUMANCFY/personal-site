@@ -1,6 +1,17 @@
 
 const positions = [
   {
+    company: 'Credit Suisse',
+    city: 'Lausanne',
+    country: 'Switzerland',
+    position: 'Data Science Intern',
+    link: '',
+    daterange: 'March 2020 - August 2020',
+    points: [
+      
+    ],
+  },
+  {
     company: 'AXA Technology Services Advanced Engineering Lab',
     city: 'Lausanne',
     country: 'Switzerland',
