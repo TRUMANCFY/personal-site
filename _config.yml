@@ -1,7 +1,7 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /msaveski
+baseurl: trumancfy.github.io/www_personal
 
 collections:
   projects:
