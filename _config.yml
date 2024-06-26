@@ -1,7 +1,6 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: trumancfy.github.io/www_personal
 
 collections:
   projects:
