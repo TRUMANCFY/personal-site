@@ -22,7 +22,7 @@ papers:
   - title: "A Survey of Confidence Estimation and Calibration in Large Language Models"
     authors: "Jiahui Geng, <b>Fengyu Cai</b>, Yuxia Wang, Heinz Koeppl, Preslav Nakov, Iryna Gurevych"
     venue: "NAACL 2024: Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    paper_pdf: ""
+    paper_pdf: "https://aclanthology.org/2024.naacl-long.366.pdf"
     selected: y  
 
   - title: "SLIM: Explicit Slot-Intent Mapping with BERT for Joint Multi-Intent Detection and Slot Filling"
