@@ -2,7 +2,7 @@ papers:
 
 
   - title: "MixGR:Enhancing Retriever Generalization for Scientific Domain through Complementary Granularity"
-    authors: "<b>Fengyu Cai</b>, Xinran Zhao, Tong Chen, Hongming Zhang, Iryna Gurevych, Heinz Koeppl"
+    authors: "<b>Fengyu Cai</b>, Xinran Zhao, Tong Chen, Sihao Chen, Hongming Zhang, Iryna Gurevych, Heinz Koeppl"
     venue: "Preprint"
     paper_pdf: ""
     selected: y
@@ -15,13 +15,13 @@ papers:
 
   - title: "GeoHard: Towards Measuring Class-wise Hardness through Modelling Class Semantics"
     authors: "<b>Fengyu Cai</b>, Xinran Zhao, Hongming Zhang, Iryna Gurevych, Heinz Koeppl"
-    venue: "ACL Findings 2024 (to be appeared)"
+    venue: "ACL 2024 Findings (to be appeared)"
     paper_pdf: ""
     selected: y
 
   - title: "A Survey of Confidence Estimation and Calibration in Large Language Models"
     authors: "Jiahui Geng, <b>Fengyu Cai</b>, Yuxia Wang, Heinz Koeppl, Preslav Nakov, Iryna Gurevych"
-    venue: "NAACL 2024: Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
+    venue: "NAACL 2024 Main Conference"
     paper_pdf: "https://aclanthology.org/2024.naacl-long.366.pdf"
     selected: y  
 
