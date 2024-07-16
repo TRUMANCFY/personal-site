@@ -4,7 +4,7 @@ papers:
   - title: "MixGR:Enhancing Retriever Generalization for Scientific Domain through Complementary Granularity"
     authors: "<b>Fengyu Cai</b>, Xinran Zhao, Tong Chen, Sihao Chen, Hongming Zhang, Iryna Gurevych, Heinz Koeppl"
     venue: "Preprint"
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2407.10691"
     selected: y
 
   - title: "Finetuning Large Language Model for Personalized Ranking"
