@@ -9,14 +9,14 @@ papers:
 
   - title: "Finetuning Large Language Model for Personalized Ranking"
     authors: "Zhuoxi Bai, Ning Wu, <b>Fengyu Cai</b>, Xinyi Zhu, Yun Xiong"
-    venue: "Preprint"
+    venue: "2024 ACM International Conference on Information and Knowledge Management (CIKM 2024)"
     paper_pdf: "https://arxiv.org/pdf/2405.16127"
     selected: y
 
   - title: "GeoHard: Towards Measuring Class-wise Hardness through Modelling Class Semantics"
     authors: "<b>Fengyu Cai</b>, Xinran Zhao, Hongming Zhang, Iryna Gurevych, Heinz Koeppl"
     venue: "ACL 2024 Findings (to be appeared)"
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2407.12512"
     selected: y
 
   - title: "A Survey of Confidence Estimation and Calibration in Large Language Models"
