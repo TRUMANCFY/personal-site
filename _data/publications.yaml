@@ -1,9 +1,8 @@
 papers:
 
-
   - title: "MixGR:Enhancing Retriever Generalization for Scientific Domain through Complementary Granularity"
     authors: "<b>Fengyu Cai</b>, Xinran Zhao, Tong Chen, Sihao Chen, Hongming Zhang, Iryna Gurevych, Heinz Koeppl"
-    venue: "Preprint"
+    venue: "EMNLP 2024 Main Conference"
     paper_pdf: "https://arxiv.org/pdf/2407.10691"
     selected: y
 
@@ -15,7 +14,7 @@ papers:
 
   - title: "GeoHard: Towards Measuring Class-wise Hardness through Modelling Class Semantics"
     authors: "<b>Fengyu Cai</b>, Xinran Zhao, Hongming Zhang, Iryna Gurevych, Heinz Koeppl"
-    venue: "ACL 2024 Findings (to be appeared)"
+    venue: "ACL 2024 Findings"
     paper_pdf: "https://arxiv.org/pdf/2407.12512"
     selected: y
 
