@@ -1,5 +1,41 @@
 papers:
 
+  - title: "Knowledge Graph–Augmented DNA Representation Learning"
+    authors: "<b>Fengyu Cai</b><sup>*</sup>, Erik Kubaczka<sup>*</sup>, Shaobo Cui, Heinz Koeppl"
+    venue: "ICML 2025 Workshop on Multi-modal Foundation Models and LLMs for Life Sciences"
+    paper_pdf: "https://openreview.net/attachment?id=L5RgTfNE6h&name=pdf"
+    selected: y
+
+  - title: "Revela: Dense Retriever Learning via Language Modeling"
+    authors: "<b>Fengyu Cai</b>, Tong Chen, Xinran Zhao, Sihao Chen, Hongming Zhang, Sherry Tongshuang Wu, Iryna Gurevych, Heinz Koeppl"
+    venue: "In submission"
+    paper_pdf: "https://arxiv.org/pdf/2506.16552"
+    selected: y
+
+  - title: "MoR: Better Handling Diverse Queries with a Mixture of Sparse, Dense, and Human Retrievers"
+    authors: "Jushaan Singh Kalra, Xinran Zhao, To Eun Kim, <b>Fengyu Cai</b>, Fernando Diaz, Tongshuang Wu"
+    venue: "In submission"
+    paper_pdf: "https://arxiv.org/pdf/2506.15862"
+    selected: y
+
+  - title: "CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval"
+    authors: "Jiahui Geng<sup>*</sup>, <b>Fengyu Cai</b><sup>*</sup>, Shaobo Cui, Qing Li, Liangwei Chen, Chenyang Lyu, Haonan Li, Derui Zhu, Walter Pretschner, Heinz Koeppl, Fakhri Karray"
+    venue: "In submission"
+    paper_pdf: "https://arxiv.org/pdf/2506.11066"
+    selected: y
+
+  - title: "SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders"
+    authors: "Qing Li, Jiahui Geng, Derui Zhu, <b>Fengyu Cai</b>, Chenyang Lyu, Fakhri Karray"
+    venue: "In submission"
+    paper_pdf: "https://arxiv.org/abs/2503.14530"
+    selected: y
+
+  - title: "A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models"
+    authors: "Jiahui Geng, Qing Li, Herbert Woisetschlaeger, Zongxiong Chen, <b>Fengyu Cai</b>, Yuxia Wang, Preslav Nakov, Hans-Arno Jacobsen, Fakhri Karray"
+    venue: "In submission"
+    paper_pdf: "https://arxiv.org/pdf/2503.01854"
+    selected: y
+
   - title: "MixGR:Enhancing Retriever Generalization for Scientific Domain through Complementary Granularity"
     authors: "<b>Fengyu Cai</b>, Xinran Zhao, Tong Chen, Sihao Chen, Hongming Zhang, Iryna Gurevych, Heinz Koeppl"
     venue: "EMNLP 2024 Main Conference"
