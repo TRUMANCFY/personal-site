@@ -25,11 +25,11 @@ papers:
     selected: y
 
 
-  - title: "SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders"
-    authors: "Qing Li, Jiahui Geng, Derui Zhu, <b>Fengyu Cai</b>, Chenyang Lyu, Fakhri Karray"
-    venue: "In submission"
-    paper_pdf: "https://arxiv.org/abs/2503.14530"
-    selected: y
+  # - title: "SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders"
+  #   authors: "Qing Li, Jiahui Geng, Derui Zhu, <b>Fengyu Cai</b>, Chenyang Lyu, Fakhri Karray"
+  #   venue: "In submission"
+  #   paper_pdf: "https://arxiv.org/abs/2503.14530"
+  #   selected: y
 
   - title: "A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models"
     authors: "Jiahui Geng, Qing Li, Herbert Woisetschlaeger, Zongxiong Chen, <b>Fengyu Cai</b>, Yuxia Wang, Preslav Nakov, Hans-Arno Jacobsen, Fakhri Karray"
