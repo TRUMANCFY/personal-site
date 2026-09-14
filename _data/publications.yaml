@@ -1,19 +1,44 @@
 papers:
 
   - title: "CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval"
-    authors: "Jiahui Geng<sup>*</sup>, <b>Fengyu Cai</b><sup>*</sup>, Shaobo Cui, Qing Li, Liangwei Chen, Chenyang Lyu, Haonan Li, Derui Zhu, Walter Pretschner, Heinz Koeppl, Fakhri Karray"
-    venue: "ACL 2026 Main Conference (to be appeared)"
+    authors: "Jiahui Geng<sup>‡</sup>, <b>Fengyu Cai</b><sup>‡</sup>, Shaobo Cui, Qing Li, Liangwei Chen, Chenyang Lyu, Haonan Li, Derui Zhu, Walter Pretschner, Heinz Koeppl, Fakhri Karray"
+    venue: "ACL 2026 Main Conference — 🎤 Oral, 🏆 SAC Highlights (top 0.5% of submissions)"
     paper_pdf: "https://arxiv.org/pdf/2506.11066"
     selected: y
 
-  - title: "Revela: Dense Retriever Learning via Language Modeling"
-    authors: "<b>Fengyu Cai</b>, Tong Chen, Xinran Zhao, Sihao Chen, Hongming Zhang, Sherry Tongshuang Wu, Iryna Gurevych, Heinz Koeppl"
-    venue: "ICLR 2026"
-    paper_pdf: "https://arxiv.org/pdf/2506.16552"
+  - title: "ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization"
+    authors: "<b>Fengyu Cai</b>, Iryna Gurevych, Heinz Koeppl"
+    venue: "ICML 2026"
+    paper_pdf: "https://icml.cc/virtual/2026/poster/60692"
     selected: y
 
+  - title: "Epistemic Gain, Aleatoric Cost: Uncertainty Decomposition in Multi-Agent Debate for Math Reasoning"
+    authors: "Dan Qiao, Binbin Chen, <b>Fengyu Cai</b>, Jianlong Chen, Wenhao Li, Fuxin Jiang, Zuzhi Chen, Hongyuan Zha, Tieying Zhang, Baoxiang Wang"
+    venue: "ICML 2026"
+    paper_pdf: "https://arxiv.org/pdf/2603.01221"
+    selected: n
+
+  - title: "CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval"
+    authors: "Jiahui Geng, Qing Li, <b>Fengyu Cai</b>, Fakhri Karray"
+    venue: "CVPR 2026"
+    paper_pdf: "https://arxiv.org/pdf/2604.15663"
+    selected: n
+
+  - title: "Revela: Dense Retriever Learning via Language Modeling"
+    authors: "<b>Fengyu Cai</b>, Tong Chen, Xinran Zhao, Sihao Chen, Hongming Zhang, Sherry Tongshuang Wu, Iryna Gurevych, Heinz Koeppl"
+    venue: "ICLR 2026 — 🎤 Oral (top 1.1%); 🏆 Best Paper Award at FrontierIR@AAAI 2026"
+    paper_pdf: "https://arxiv.org/pdf/2506.16552"
+    code: "https://huggingface.co/collections/trumancai/revela"
+    selected: y
+
+  - title: "Crayotter: Traceable Multi-Agent Workflows for Long-Form Video Editing"
+    authors: "Lecheng Yan, Yichong Zhang, Xiantao Xu, Jianze Lin, Ben Pan, Xiaoyu Zheng, Jiawei Qian, Anqi Wu, Jiahui Geng, Ruizhe Li, <b>Fengyu Cai</b>, Jingcheng Niu, Raymond Li, Wenxi Li, Chenyang Lyu"
+    venue: "arXiv preprint, 2026"
+    paper_pdf: "https://arxiv.org/pdf/2606.07636"
+    selected: n
+
   - title: "Knowledge Graph–Augmented DNA Representation Learning"
-    authors: "<b>Fengyu Cai</b><sup>*</sup>, Erik Kubaczka<sup>*</sup>, Shaobo Cui, Heinz Koeppl"
+    authors: "<b>Fengyu Cai</b><sup>‡</sup>, Erik Kubaczka<sup>‡</sup>, Shaobo Cui, Heinz Koeppl"
     venue: "ICML 2025 Workshop on Multi-modal Foundation Models and LLMs for Life Sciences"
     paper_pdf: "https://openreview.net/attachment?id=L5RgTfNE6h&name=pdf"
     selected: y
@@ -24,30 +49,23 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2506.15862"
     selected: y
 
-
-  # - title: "SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders"
-  #   authors: "Qing Li, Jiahui Geng, Derui Zhu, <b>Fengyu Cai</b>, Chenyang Lyu, Fakhri Karray"
-  #   venue: "In submission"
-  #   paper_pdf: "https://arxiv.org/abs/2503.14530"
-  #   selected: y
-
-  - title: "A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models"
-    authors: "Jiahui Geng, Qing Li, Herbert Woisetschlaeger, Zongxiong Chen, <b>Fengyu Cai</b>, Yuxia Wang, Preslav Nakov, Hans-Arno Jacobsen, Fakhri Karray"
-    venue: "In submission"
+  - title: "A Survey of Machine Unlearning in Large Language Models: Methods, Challenges and Future Directions"
+    authors: "Qing Li, Jiahui Geng, Herbert Woisetschläger, Zongxiong Chen, <b>Fengyu Cai</b>, Yuxia Wang, Preslav Nakov, Hans-Arno Jacobsen, Fakhri Karray"
+    venue: "arXiv preprint, 2025"
     paper_pdf: "https://arxiv.org/pdf/2503.01854"
-    selected: y
+    selected: n
 
-  - title: "MixGR:Enhancing Retriever Generalization for Scientific Domain through Complementary Granularity"
+  - title: "MixGR: Enhancing Retriever Generalization for Scientific Domain through Complementary Granularity"
     authors: "<b>Fengyu Cai</b>, Xinran Zhao, Tong Chen, Sihao Chen, Hongming Zhang, Iryna Gurevych, Heinz Koeppl"
     venue: "EMNLP 2024 Main Conference"
     paper_pdf: "https://arxiv.org/pdf/2407.10691"
     selected: y
 
-  - title: "Finetuning Large Language Model for Personalized Ranking"
-    authors: "Zhuoxi Bai, Ning Wu, <b>Fengyu Cai</b>, Xinyi Zhu, Yun Xiong"
-    venue: "2024 ACM International Conference on Information and Knowledge Management (CIKM 2024)"
-    paper_pdf: "https://arxiv.org/pdf/2405.16127"
-    selected: y
+  - title: "Aligning Large Language Model with Direct Multi-Preference Optimization for Recommendation"
+    authors: "Zhuoxi Bai, Ning Wu, <b>Fengyu Cai</b>, Xinyi Zhu, Xiangnan He"
+    venue: "CIKM 2024"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3627673.3679611"
+    selected: n
 
   - title: "GeoHard: Towards Measuring Class-wise Hardness through Modelling Class Semantics"
     authors: "<b>Fengyu Cai</b>, Xinran Zhao, Hongming Zhang, Iryna Gurevych, Heinz Koeppl"
@@ -59,29 +77,28 @@ papers:
     authors: "Jiahui Geng, <b>Fengyu Cai</b>, Yuxia Wang, Heinz Koeppl, Preslav Nakov, Iryna Gurevych"
     venue: "NAACL 2024 Main Conference"
     paper_pdf: "https://aclanthology.org/2024.naacl-long.366.pdf"
-    selected: y  
+    selected: y
 
   - title: "SLIM: Explicit Slot-Intent Mapping with BERT for Joint Multi-Intent Detection and Slot Filling"
     authors: "<b>Fengyu Cai</b>, Wanhao Zhou, Fei Mi, Boi Faltings"
-    venue: "ICASSP 2022: the 2022 IEEE Internal Conference on Acoustics, Speech and Signal Processing"
+    venue: "ICASSP 2022"
     paper_pdf: "https://arxiv.org/pdf/2108.11711"
-    selected: y
+    selected: n
 
-
-  - title: "Self-training Improves Pre-training for Few-shot Learning in Task-oritented Dialogue Systems"
-    authors: "Fei Mi, Wanhao Zhou, <b>Fengyu Cai</b>, Lingjing Kong, Minglie Huang, Boi Faltings"
-    venue: "EMNLP 2021: the 2021 Conference on Empirical Methods in Natural Language Processing"
+  - title: "Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialogue Systems"
+    authors: "Fei Mi, Wanhao Zhou, <b>Fengyu Cai</b>, Lingjing Kong, Minlie Huang, Boi Faltings"
+    venue: "EMNLP 2021 Main Conference"
     paper_pdf: "https://arxiv.org/pdf/2108.12589"
-    selected: y
+    selected: n
+
+  - title: "A Collaborative Aerial-Ground Robotic System for Fast Exploration"
+    authors: "Luqi Wang, Daqian Cheng, Fei Gao, <b>Fengyu Cai</b>, Jixin Guo, Mengxiang Lin, Shaojie Shen"
+    venue: "ISER 2018 (Proceedings of the International Symposium on Experimental Robotics)"
+    paper_pdf: "https://arxiv.org/pdf/1806.02487"
+    selected: n
 
   - title: "CRASH: A Collaborative Aerial-Ground Exploration System Using Hybrid-Frontier Method"
     authors: "Luqi Wang, Fei Gao, <b>Fengyu Cai</b>, Shaojie Shen"
-    venue: "ROBIO 2018: 2018 IEEE International Conference on Robotics and Biomimetics"
-    paper_pdf: "https://arxiv.org/pdf/1806.02487"
-    selected: y
-
-  - title: "A collaborative aerial-ground robotic system for fast exploration"
-    authors: "Luqi Wang, Daqian Cheng, Fei Gao, <b>Fengyu Cai</b>, Jixin Guo, Mengxiang Lin, Shaojie Shen"
-    venue: "Proceedings of the 2018 International Symposium on Exxperimental Robotics"
-    paper_pdf: "https://arxiv.org/pdf/1806.02487"
-    selected: y
+    venue: "ROBIO 2018"
+    paper_pdf: "https://ieeexplore.ieee.org/document/8665052"
+    selected: n
