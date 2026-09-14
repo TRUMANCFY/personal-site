@@ -1,43 +1,38 @@
-experiences:
+employment:
 
-- place: "Microsoft, Redmond"
-  time: "2026"
-  title: "Research Intern"
-  subtitle: "Office of Applied Research — long-horizon agentic RL for LLM post-training"
-  category: "work"
+- place: "Microsoft, Redmond, WA, USA"
+  time: "2026.06 – 2026.10"
+  title: "Research Intern, Office of Applied Research"
+  desc: "Long-horizon agentic RL for LLM post-training on enterprise data."
 
-- place: "TU Darmstadt"
-  time: "2022 - now"
-  title: "Ph.D. Student"
-  subtitle: "Self-organizing Systems Lab and Ubiquitous Knowledge Processing Lab"
-  category: "study"
+- place: "Credit Suisse, Lausanne, Switzerland"
+  time: "2020.03 – 2020.08"
+  title: "Research Scientist Intern, Global Information Barrier Surveillance Team"
+  desc: "NLP pipelines for insider-trading risk detection from financial news."
 
-- place: "École Polytechnique Fédérale de Lausanne"
-  time: "2018 - 2022"
+- place: "AXA Innovation Lab, Lausanne, Switzerland"
+  time: "2019.06 – 2019.09"
+  title: "Research & Development Intern"
+  desc: "Semi-automatic labeling of insurance contracts with BERT and InferSent."
+
+- place: "MokaHR, Beijing, China"
+  time: "2018.06 – 2018.09"
+  title: "NLP Research & Development Intern"
+  desc: "Named entity recognition pipeline for resume parsing."
+
+education:
+
+- place: "TU Darmstadt, Germany"
+  time: "2022.05 – present"
+  title: "Ph.D. in Electrical Engineering"
+  desc: "Supervisors: Heinz Koeppl and Iryna Gurevych. Expected graduation: end of 2026."
+
+- place: "École Polytechnique Fédérale de Lausanne (EPFL), Switzerland"
+  time: "2018.09 – 2022.03"
   title: "M.Sc. in Computer Science"
-  subtitle: "Master thesis at ETH Zurich & EPFL"
-  category: "study"
+  desc: "Supervisor: Boi Faltings. Final grade: 5.59/6."
 
-- place: "Credit Suisse, Lausanne"
-  time: "2020"
-  title: "Research Scientist Intern"
-  subtitle: "NLP for financial news analysis"
-  category: "work"
-
-- place: "AXA Innovation Lab, Lausanne"
-  time: "2019"
-  title: "R&D Intern"
-  subtitle: "NLP for insurance contracts"
-  category: "work"
-
-- place: "MokaHR, Beijing"
-  time: "2018"
-  title: "NLP R&D Intern"
-  subtitle: "Named entity recognition for resume parsing"
-  category: "work"
-
-- place: "Hong Kong University of Science and Technology"
-  time: "2014 - 2018"
+- place: "Hong Kong University of Science and Technology (HKUST)"
+  time: "2014.09 – 2018.06"
   title: "B.Eng. in Electrical Engineering & B.Sc. in Computer Science"
-  subtitle: ""
-  category: "study"
+  desc: "Final grade: 3.744/4.3."

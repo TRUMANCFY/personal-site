@@ -28,6 +28,21 @@ h4 {
   font-weight: 100;
   line-height: 25px;
   text-transform: none; }
+.highlights li {
+  margin-bottom: 4px; }
+.cv-entry {
+  display: flex;
+  margin-bottom: 14px; }
+.cv-time {
+  flex: 0 0 140px;
+  color: rgba(0, 0, 0, 0.55);
+  font-size: 1.4rem;
+  padding-top: 2px; }
+.cv-body {
+  flex: 1; }
+@media (max-width: 550px) {
+  .cv-entry { display: block; }
+  .cv-time { margin-bottom: 2px; } }
 .section-header {
   text-transform: uppercase;
   font-size: 1.5rem;
