@@ -14,7 +14,10 @@ h4 {
   font-size: 22px;
   margin-top: 5px; }
 .paper {
-  margin-bottom: 20px }
+  padding: 14px 0;
+  border-bottom: 1px solid #eee; }
+.paper:last-of-type {
+  border-bottom: none; }
 .paper .title {
   /*text-transform: uppercase; */}
 .paper p {
@@ -28,11 +31,15 @@ h4 {
   font-weight: 100;
   line-height: 25px;
   text-transform: none; }
-.highlights li {
-  margin-bottom: 4px; }
+.highlights li,
+#news li {
+  margin-bottom: 8px; }
 .cv-entry {
   display: flex;
-  margin-bottom: 14px; }
+  padding: 12px 0;
+  border-bottom: 1px solid #eee; }
+.cv-entry:last-of-type {
+  border-bottom: none; }
 .cv-time {
   flex: 0 0 140px;
   color: rgba(0, 0, 0, 0.55);
