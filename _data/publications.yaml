@@ -33,7 +33,7 @@ papers:
 
   - title: "Crayotter: Traceable Multi-Agent Workflows for Long-Form Video Editing"
     authors: "Lecheng Yan, Yichong Zhang, Xiantao Xu, Jianze Lin, Ben Pan, Xiaoyu Zheng, Jiawei Qian, Anqi Wu, Jiahui Geng, Ruizhe Li, <b>Fengyu Cai</b>, Jingcheng Niu, Raymond Li, Wenxi Li, Chenyang Lyu"
-    venue: "arXiv preprint, 2026"
+    venue: "AACL-IJCNLP 2026 System Demonstrations"
     paper_pdf: "https://arxiv.org/pdf/2606.07636"
     selected: n
 
