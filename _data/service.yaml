@@ -22,9 +22,11 @@ media:
 - time: "2026.07"
   outlet: "青稞AI (Qingke AI)"
   title: "ACL 2026 SAC Highlight Oral 满分论文：CoQuIR 让代码检索器学会挑好代码"
+  title_en: "ACL 2026 SAC Highlight Oral with Perfect Scores: CoQuIR Teaches Code Retrievers to Pick Good Code"
   url: "https://www.sina.cn/news/detail/5320920563453045.html"
 
 - time: "2026.03"
   outlet: "机器之心 (Synced)"
   title: "ICLR 2026 Oral | Revela：用语言建模重新定义稠密检索器训练"
+  title_en: "ICLR 2026 Oral | Revela: Redefining Dense Retriever Training via Language Modeling"
   url: "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&chksm=859d4a8d5035a7b912bedf3f625b7d1af0145c91dc4c464cb4800668c3b6fe17a66a4d5175d9&idx=3&mid=2651024152&sn=e05ac897d28fa74763814b4d7ed260e0"

@@ -249,7 +249,7 @@ title: Home
   <div class="cv-entry">
     <div class="cv-time">{{ m.time }}</div>
     <div class="cv-body">
-      <b>{{ m.outlet }}</b>: <a href="{{ m.url }}" target="_blank">{{ m.title }}</a>
+      <b>{{ m.outlet }}</b>: <a href="{{ m.url }}" target="_blank">{{ m.title }}</a>{% if m.title_en %}<br/><i>{{ m.title_en }}</i>{% endif %}
     </div>
   </div>
   {% endfor %}
