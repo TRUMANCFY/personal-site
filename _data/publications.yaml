@@ -2,7 +2,7 @@ papers:
 
   - title: "CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval"
     authors: "Jiahui Geng<sup>‡</sup>, <b>Fengyu Cai</b><sup>‡</sup>, Shaobo Cui, Qing Li, Liangwei Chen, Chenyang Lyu, Haonan Li, Derui Zhu, Walter Pretschner, Heinz Koeppl, Fakhri Karray"
-    venue: "ACL 2026 Main Conference — 🎤 Oral, 🏆 SAC Highlights (top 0.5% of submissions)"
+    venue: "ACL 2026 Main Conference — 🎤 Oral, 🏆 SAC Highlight (top 0.5% of submissions)"
     paper_pdf: "https://arxiv.org/pdf/2506.11066"
     selected: y
 
