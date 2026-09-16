@@ -1,7 +1,7 @@
 talks:
 
 - time: "2026.10"
-  venue: "AI TIME Emerging Researchers Speaker Program (tentative)"
+  venue: "AI TIME Emerging Researchers Speaker Program"
   title: "Revela: Dense Retriever Learning via Language Modeling"
 
 - time: "2026.07"

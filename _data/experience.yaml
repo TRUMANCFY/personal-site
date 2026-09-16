@@ -15,11 +15,6 @@ employment:
   title: "Research & Development Intern"
   desc: "Semi-automatic labeling of insurance contracts with BERT and InferSent."
 
-- place: "MokaHR, Beijing, China"
-  time: "2018.06 – 2018.09"
-  title: "NLP Research & Development Intern"
-  desc: "Named entity recognition pipeline for resume parsing."
-
 education:
 
 - place: "TU Darmstadt, Germany"
