@@ -1,5 +1,17 @@
 papers:
 
+  - title: "World Embedding Benchmark"
+    authors: "Yiqi Liu, Ruifeng Yuan, Yang Wang, Long Li, <b>Fengyu Cai</b>, Hou Pong Chan, Jialin Yu, Hao Zhang, Chenghua Lin, Chenghao Xiao"
+    venue: "arXiv preprint, 2026"
+    paper_pdf: "https://arxiv.org/pdf/2610.03632"
+    selected: n
+
+  - title: "AutoDataBench: A Data-centric Testbed for Accelerating Auto Research"
+    authors: "Ruifeng Yuan, Yizhi Li, Yaxin Du, <b>Fengyu Cai</b>, Yiqi Liu, Hou Pong Chan, Chenghua Lin, Yun Chen, Jian Yang, Bryan Dai, Pinyan Lu, Chenghao Xiao"
+    venue: "arXiv preprint, 2026"
+    paper_pdf: "https://arxiv.org/pdf/2609.40097"
+    selected: n
+
   - title: "CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval"
     authors: "Jiahui Geng<sup>‡</sup>, <b>Fengyu Cai</b><sup>‡</sup>, Shaobo Cui, Qing Li, Liangwei Chen, Chenyang Lyu, Haonan Li, Derui Zhu, Walter Pretschner, Heinz Koeppl, Fakhri Karray"
     venue: "ACL 2026 Main Conference — 🎤 Oral, 🏆 SAC Highlight (top 0.5% of submissions)"
@@ -62,7 +74,7 @@ papers:
     selected: y
 
   - title: "Aligning Large Language Model with Direct Multi-Preference Optimization for Recommendation"
-    authors: "Zhuoxi Bai, Ning Wu, <b>Fengyu Cai</b>, Xinyi Zhu, Xiangnan He"
+    authors: "Zhuoxi Bai, Ning Wu, <b>Fengyu Cai</b>, Xinyi Zhu, Yun Xiong"
     venue: "CIKM 2024"
     paper_pdf: "https://dl.acm.org/doi/10.1145/3627673.3679611"
     selected: n
