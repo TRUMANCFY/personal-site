@@ -1,6 +1,10 @@
 talks:
 
 - time: "2026.10"
+  venue: "Microsoft"
+  title: "Beyond Contrastive Pairs: Language Modeling as a Learning Signal for Dense Retrieval"
+
+- time: "2026.10"
   venue: "AI TIME Emerging Researchers Speaker Program"
   title: "Revela: Dense Retriever Learning via Language Modeling"
 
@@ -12,6 +16,13 @@ talks:
 - time: "2025.04"
   venue: "The University of Manchester, UK"
   title: "Enhancing Retriever Generalization for Scientific Domain through Complementary Granularity"
+
+organization:
+
+- time: "2027"
+  role: "Organizer"
+  venue: "Second Workshop on New Frontiers in Information Retrieval (FrontierIR) @ AAAI 2027, Montréal, Canada"
+  url: "https://frontier-ir-workshop.github.io/"
 
 reviewing:
   conferences: "ICLR, NeurIPS, ICML; ACL, EMNLP, NAACL (via ACL Rolling Review)"

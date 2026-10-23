@@ -37,6 +37,8 @@ title: Home
 <div class="docs-section" id="news">
   <h4>News</h4>
   <ul>
+    <li><b>2026.10</b> — Invited talk at Microsoft: <i>Beyond Contrastive Pairs: Language Modeling as a Learning Signal for Dense Retrieval</i>.</li>
+    <li><b>2026.10</b> — Co-organizing the <a href="https://frontier-ir-workshop.github.io/" target="_blank">Second FrontierIR Workshop @ AAAI 2027</a> (Montréal).</li>
     <li><b>2026.10</b> — Invited talk at the AI TIME Emerging Researchers Speaker Program: <i>Revela: Dense Retriever Learning via Language Modeling</i>.</li>
     <li><b>2026.09</b> — <b>Crayotter</b> accepted to AACL-IJCNLP 2026 System Demonstrations.</li>
     <li><b>2026.07</b> — Invited talk at the <a href="https://agent-search.github.io/agentsearch-sigir26/" target="_blank">AgentSearch Workshop @ SIGIR 2026</a>, Melbourne: <i>Beyond Contrastive Pairs: Language Modeling as a Learning Signal for Dense Retrieval</i>.</li>
@@ -233,6 +235,12 @@ title: Home
 <!-- ========== SERVICE ========== -->
 <div class="docs-section" id="service">
   <h4>Academic Service</h4>
+  {% for o in site.data.service.organization %}
+  <div class="cv-entry">
+    <div class="cv-time">Organization</div>
+    <div class="cv-body"><b>{{ o.role }}</b>, <a href="{{ o.url }}" target="_blank">{{ o.venue }}</a></div>
+  </div>
+  {% endfor %}
   <div class="cv-entry">
     <div class="cv-time">Reviewing</div>
     <div class="cv-body">{{ site.data.service.reviewing.conferences }}</div>
