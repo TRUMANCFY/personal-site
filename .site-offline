@@ -1,0 +1,2 @@
+The site is switched off while this file exists (see .github/workflows/jekyll-gh-pages.yml).
+To restore: git rm .site-offline && git commit -m "Restore site" && git push
