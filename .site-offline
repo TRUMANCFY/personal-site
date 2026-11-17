@@ -1,2 +1,5 @@
-The site is switched off while this file exists (see .github/workflows/jekyll-gh-pages.yml).
-To restore: git rm .site-offline && git commit -m "Restore site" && git push
+The site is switched off. Two switches are active:
+  1. this file (.site-offline) -> the Actions workflow publishes an empty site
+  2. the "SITE OFFLINE" block in _config.yml -> the branch-based Pages build publishes an empty site
+
+To restore: delete this file AND the SITE OFFLINE block in _config.yml, then push.

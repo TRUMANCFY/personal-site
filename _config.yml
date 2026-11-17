@@ -5,3 +5,9 @@ includes:    ./_includes
 collections:
   projects:
     output: true
+
+# --- SITE OFFLINE (begin) ---
+# Excludes every file so both Pages builds publish an empty site (all URLs -> 404).
+# To restore the site: delete this block AND the .site-offline file, then push.
+exclude: ["*"]
+# --- SITE OFFLINE (end) ---
